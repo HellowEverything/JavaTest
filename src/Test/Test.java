@@ -12,6 +12,7 @@ public class Test {
 		List list=new List();
 		list.add("a");
 		list.add("b");
+		list.add("c");
 		System.out.println(Arrays.toString(str2)+"\n"+list);
 //		for(String s: str2) {
 //			System.out.println(s);
