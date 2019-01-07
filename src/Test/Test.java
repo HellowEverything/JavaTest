@@ -20,7 +20,7 @@ public class Test {
 //		for(int i=0;i<list.size();i++) {
 //			System.out.println(list.get(i) instanceof String);
 //		}
-		System.out.println("hello Git!");
+		System.out.println("hello Git!!");
 
 	}
 	
